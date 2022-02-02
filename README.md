@@ -1,15 +1,15 @@
 <h1 align="center">Portfolio Theme</h1>
-<p><b>A light weight , responsive portfolio theme by <a href="https://t.me/hacker11000">Krishna</a></b></p>
+<p><b>A light weight , responsive portfolio theme by <a href="https://t.me/Decent_b">Krishna</a></b></p>
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Portfolio/)
-[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/krishna6688/Portfolio/fork)
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://decentboyy.github.io/Portfolio/)
+[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/decentboyy/Portfolio/)
 
-<p> Join our group for more templates and updates <a href="https://t.me/web_zone"><b>@Web_Zone</b></a></p>
+<p> Join our group for more templates and updates <a href="https://t.me/Decent_b"><b>@Decent_b</b></a></p>
 
 <img src="https://te.legra.ph/file/a5216d6c828b38bc53cfc.jpg">
 
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/krishna6688/Portfolio)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/decentboyy/Portfolio)
 [![Stars](https://img.shields.io/github/stars/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/stargazers)
 [![Forks](https://img.shields.io/github/forks/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/network/members)
 ![Repo Size](https://img.shields.io/github/repo-size/krishna6688/Portfolio?style=flat-square)
