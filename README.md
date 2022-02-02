@@ -1,5 +1,5 @@
 <h1 align="center">Portfolio Theme</h1>
-<p><b>A light weight , responsive portfolio theme by <a href="https://t.me/Decent_b">Krishna</a></b></p>
+<p><b>A light weight , responsive portfolio theme by <a href="https://t.me/Decent_b">Decent boy</a></b></p>
 
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://decentboyy.github.io/Portfolio/)
 [![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/decentboyy/Portfolio/)
