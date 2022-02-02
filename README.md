@@ -6,7 +6,7 @@
 
 <p> Join our group for more templates and updates <a href="https://t.me/web_zone"><b>@Web_Zone</b></a></p>
 
-<img src="http://telegra.ph//file/7f621c37c0a6b908a388d.jpg">
+<img src="https://decentboyy.github.io/Portfolio/">
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/krishna6688/Portfolio)
